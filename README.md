@@ -19,11 +19,13 @@ This data has been used to practise and display Excel proficiency. The objective
 The raw data as can be seen in the attached Excel worksheet has 10,081 unknown values. The steps that were taken to resolve the unknown values are laid out in the attached Excel worksheet.
 
 
-<img width="1364" height="508" alt="image" src="https://github.com/user-attachments/assets/d7cab787-4443-4f90-ab28-077492f6cb2b" />
+<img width="1376" height="516" alt="image" src="https://github.com/user-attachments/assets/b2cf1cef-2802-445f-835b-d4091d8bd6cd" />
+
 
 <h2 align="center"> 🧮 Creating Pivot Tables  </h2> 
 
-<img width="1363" height="196" alt="image" src="https://github.com/user-attachments/assets/d4d2b5b8-acab-46c6-8a1f-ffc42a1b74fc" />  
+<img width="1367" height="200" alt="image" src="https://github.com/user-attachments/assets/6e85727b-ab55-4e68-8814-cdc80ec877cb" />
+ 
 
 <h2 align="center"> 📊 Creating Dashboard  </h2>   
 
