@@ -16,11 +16,9 @@ This data has been used to practise and display Excel proficiency. The objective
 * To create a dashboard in order in see trends and gain insights from the given data 
 
 <h2 align="center"> ✨ Cleaning Data  </h2>   
-The raw data as can be seen in the attached Excel worksheet has 10,081 unknown values. The steps that were taken to resolve the unknown values are laid out in the attached Excel worksheet.
+The raw data as can be seen in the attached Excel worksheet has 10,081 unknown values. The steps that were taken to resolve the unknown values are also laid out in the attached Excel worksheet. 
 
-
-<img width="1376" height="516" alt="image" src="https://github.com/user-attachments/assets/b2cf1cef-2802-445f-835b-d4091d8bd6cd" />
-
+<img width="1364" height="510" alt="image" src="https://github.com/user-attachments/assets/ad4e611b-bfc6-495c-9493-533d5a12da36" />  
 
 <h2 align="center"> 🧮 Creating Pivot Tables  </h2> 
 
