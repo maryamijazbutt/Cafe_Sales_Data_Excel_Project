@@ -42,4 +42,4 @@ The dashboard visualises the most sold item, total revenue generated and the tot
 - Most payments are made by credit card, then digital wallet and then cash.
 - A larger number of customer prefer toeat in-store.
 - The total monthly revenue is quite stable. The trendline on the revenue generated is horizontal showing stable sales over the months apart from February where the sales dip. The month over month percentage change shows oscillation between growth and contraction. Although the revenue generated is stable, there's no long-term trend or growth.
-- 
+  
