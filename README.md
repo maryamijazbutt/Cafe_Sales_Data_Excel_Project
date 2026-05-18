@@ -31,7 +31,7 @@ The dashboard visualises the most sold item, total revenue generated and the tot
 
 <img width="1321" height="437" alt="image" src="https://github.com/user-attachments/assets/ad23836e-4c4d-4e54-95ae-8cfd300dfd51" />  
 
-<img width="1436" height="392" alt="image" src="https://github.com/user-attachments/assets/c474ba4b-7bae-4d39-94a7-463d2f1c10e9" />  
+<img width="1433" height="393" alt="image" src="https://github.com/user-attachments/assets/ff034b21-ff05-4ca9-bc21-dc86ce89daba" />
 
 <img width="1432" height="304" alt="image" src="https://github.com/user-attachments/assets/a94a24f5-bcc9-418d-b326-53f77331dd5b" />  
 
